@@ -12,6 +12,9 @@ Machine-Learning-Labs/
     ├── Lab-Day-3/
     ├── Lab-Day-4/
     └── Lab-Day-5/
+    └── Lab-Day-6/
+    └── Lab-Day-7/
+    └── Lab-Day-8/
 ```
 
 ## Topics Covered
